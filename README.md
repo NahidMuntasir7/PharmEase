@@ -1,1 +1,12 @@
-**🏥 PharmEase - Pharmacy Management System 📊** Manage your pharmacy operations seamlessly with PharmEase, a Java-based system incorporating Object-Oriented Programming principles. With features like inventory management, sales tracking, prescription handling, customer management. PharmEase streamlines every aspect of your pharmacy workflow.
+📝 **README: PharmEase Project**
+
+**Description:**
+PharmEase is a Java-based application developed during the second semester as a project. It serves as a pharmacy management system, utilizing Object-Oriented Programming (OOP) principles, Java Swing for the graphical user interface (GUI), and MySQL for database management.
+
+**Features:**
+- **User-friendly Interface:** The Java Swing GUI provides an intuitive and easy-to-navigate interface for users.
+- **Database Integration:** MySQL is employed for efficient storage and management of pharmacy-related data.
+- **OOP Implementation:** The project demonstrates the application of OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction.
+- **Functionality:** PharmEase enables users to perform various tasks related to pharmacy management, such as inventory management, sales tracking, and customer management.
+
+🚀 Happy managing with PharmEase! 🏥💊
