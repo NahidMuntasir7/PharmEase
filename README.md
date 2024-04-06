@@ -1,0 +1,1 @@
+**🏥 PharmEase - Pharmacy Management System 📊** Manage your pharmacy operations seamlessly with PharmEase, a Java-based system incorporating Object-Oriented Programming principles. With features like inventory management, sales tracking, prescription handling, customer management. PharmEase streamlines every aspect of your pharmacy workflow.
