@@ -1,7 +1,7 @@
 📝 ***PharmEase***
 
 **Description:**
-***PharmEase*** is a Java-based application developed during my second semester as a project. It serves as a pharmacy management system, utilizing Object-Oriented Programming (OOP) principles, Java Swing for the graphical user interface (GUI), and MySQL for database management.
+***PharmEase*** is a Java-based application developed during my third semester as a project. It serves as a pharmacy management system, utilizing Object-Oriented Programming (OOP) principles, Java Swing for the graphical user interface (GUI), and MySQL for database management.
 
 **Features:**
 - **User-friendly Interface:** The Java Swing GUI provides an intuitive and easy-to-navigate interface for users.
