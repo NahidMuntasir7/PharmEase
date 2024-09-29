@@ -13,10 +13,6 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 - **Database Integration**: MySQL is used for effective storage and management of all pharmacy-related data, ensuring smooth and reliable data processing.
   
 - **OOP Concepts**: The system showcases core OOP concepts such as encapsulation, inheritance, polymorphism, and abstraction, making the code maintainable and scalable.
-  
-- **Comprehensive Functionality**:
-  - **Admin Features**:
-  - **Pharmacist Features**:
 
 ## 🖼️ Snapshots
 
