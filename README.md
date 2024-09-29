@@ -1,4 +1,4 @@
-💊 PharmEase
+# 💊 PharmEase
 
 **PharmEase** is a Java-based pharmacy management system developed during my third semester. The project applies Object-Oriented Programming (OOP) principles, utilizes **Java Swing** for the graphical user interface (GUI), and integrates **MySQL** for efficient database management.
 
@@ -35,31 +35,25 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 ## 🖼️ Snapshots
 
 ### Admin Features
-- [Login]([link_to_screenshot](https://github.com/NahidMuntasir7/PharmEase/blob/master/Screenshots/admin/Login.png))
-- [Add User](link_to_screenshot)
-- [Close Application](link_to_screenshot)
-- [Dashboard](link_to_screenshot)
-- [Logout](link_to_screenshot)
-- [Profile](link_to_screenshot)
-- [Update User](link_to_screenshot)
-- [View User](link_to_screenshot)
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Add%20User.png" alt="Add User" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Close%20application.png" alt="Close Application" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Dashboard.png" alt="Dashboard" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Login.png" alt="Login" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Logout.png" alt="Logout" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Profile.png" alt="Profile" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Update%20User.png" alt="Update User" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/View%20User.png" alt="View User" width="400"/>
 
 ### Pharmacist Features
-- [Add Medicine](link_to_screenshot)
-- [Bill PDF](link_to_screenshot)
-- [Sell Medicine](link_to_screenshot)
-- [Update Medicine](link_to_screenshot)
-- [View Bill](link_to_screenshot)
-- [View Medicine](link_to_screenshot)
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Add%20Medicine.png" alt="Add Medicine" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Bill%20PDF.png" alt="Bill PDF" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Sell%20Medicine.png" alt="Sell Medicine" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Update%20Medicine.png" alt="Update Medicine" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/View%20Bill.png" alt="View Bill" width="400"/>
+- <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/View%20Medicine.png" alt="View Medicine" width="400"/>
 
 ## 🛠️ Technologies Used
 
 - **Java**: The core language used for development.
 - **Java Swing**: Used for building the graphical user interface (GUI).
 - **MySQL**: Used as the database for storing and managing pharmacy data.
-  
-## 🚀 How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/NahidMuntasir7/PharmEase.git
