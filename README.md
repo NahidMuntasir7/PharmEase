@@ -33,32 +33,42 @@ This project exemplifies the practical application of OOP concepts, showcasing e
  
   <img src="Screenshots/admin/Login.png" alt="Login" width="400"/>
 
+
 - **Dashboard**
    
   <img src="Screenshots/admin/Dashboard.png" alt="Dashboard" width="400"/>
 
 
-  
 - **Add User**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Add%20User.png" alt="Add User" width="400"/>
-
-- **Close Application**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Close%20application.png" alt="Close Application" width="400"/>
+ 
+  <img src="Screenshots/admin/Add User.png" alt="Add User" width="400"/>
 
 
+- **Profile**
+ 
+  <img src="Screenshots/admin/Profile.png" alt="Profile" width="400"/>  
+
+
+- **View User**
+ 
+  <img src="Screenshots/admin/View User.png" alt="View User" width="400"/>
+
+  - **Update User**
+   
+  <img src="Screenshots/admin/Update User.png" alt="Update User" width="400"/>
 
 
 - **Logout**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Logout.png" alt="Logout" width="400"/>
+  <img src="Screenshots/admin/Logout.png" alt="Logout" width="400"/>
 
-- **Profile**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Profile.png" alt="Profile" width="400"/>
+  
+- **Close Application**
+  <img src="Screenshots/admin/Close application.png" alt="Close Application" width="400"/>
 
-- **Update User**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Update%20User.png" alt="Update User" width="400"/>
 
-- **View User**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/View%20User.png" alt="View User" width="400"/>
+
+
+
 
 ### Pharmacist Features
 - **Add Medicine**
