@@ -35,6 +35,10 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 ## 🖼️ Snapshots
 
 ### Admin Features
+
+- **Login**
+  <img src="Screenshots/admin/Login.png" alt="Login" width="800"/>
+  
 - **Add User**
   <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Add%20User.png" alt="Add User" width="400"/>
   
@@ -44,8 +48,7 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 - **Dashboard**
   <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Dashboard.png" alt="Dashboard" width="400"/>
   
-- **Login**
-  <img src="Screenshots/admin/Login.png" alt="Login" width="400"/>
+
   
 - **Logout**
   <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Logout.png" alt="Logout" width="400"/>
