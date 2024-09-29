@@ -12,6 +12,6 @@
 🚀 Happy managing with ***PharmEase***! 🏥
 
 
-<img src="Screenshots/admin/Dashboard.png" alt="Project Screenshot" width="400"/>
+<img src="Screenshots/admin/Dashboard.png" alt="Project Screenshot" width="800"/>
 
 
