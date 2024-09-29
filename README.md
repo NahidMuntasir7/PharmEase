@@ -92,8 +92,9 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 
 ## 📅 Conclusion
 
-PharmEase is a comprehensive pharmacy management solution that effectively addresses the complexities of pharmacy operations. By integrating user-friendly features with robust database management and the principles of Object-Oriented Programming, this application provides a scalable and efficient way to manage pharmacy tasks. Whether you are an administrator or a pharmacist, PharmEase offers the tools necessary to streamline your workflow and enhance productivity in the pharmacy setting.
+PharmEase is a user-friendly pharmacy management solution designed to simplify daily operations. It combines efficient database management with OOP principles, providing scalable tools for administrators and pharmacists to streamline workflows and boost productivity.
+
 
 ---
 
-Feel free to modify any sections or add more details as needed! Let me know if you need any further adjustments.
+For any queries or suggestions, feel free to reach out at: [nahidmuntasir2.com].
