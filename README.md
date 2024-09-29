@@ -97,4 +97,4 @@ PharmEase is a user-friendly pharmacy management solution designed to simplify d
 
 ---
 
-For any queries or suggestions, feel free to reach out at: [nahidmuntasir2.com].
+For any queries or suggestions, feel free to reach out at: nahidmuntasir2.com
