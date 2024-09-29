@@ -10,3 +10,4 @@
 - **Functionality:** PharmEase enables users to perform various tasks related to pharmacy management, such as inventory management, pharmacist management as an admin, sales tracking, and customer management.
 
 🚀 Happy managing with ***PharmEase***! 🏥
+
