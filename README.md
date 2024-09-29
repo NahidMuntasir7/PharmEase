@@ -33,7 +33,7 @@ This project exemplifies the practical application of OOP concepts, showcasing e
  
   <img src="Screenshots/admin/Login.png" alt="Login" width="400"/>
 
-  - **Dashboard**
+- **Dashboard**
    
   <img src="Screenshots/admin/Dashboard.png" alt="Dashboard" width="400"/>
 
