@@ -33,6 +33,11 @@ This project exemplifies the practical application of OOP concepts, showcasing e
  
   <img src="Screenshots/admin/Login.png" alt="Login" width="400"/>
 
+  - **Dashboard**
+   
+  <img src="Screenshots/admin/Dashboard.png" alt="Dashboard" width="400"/>
+
+
   
 - **Add User**
   <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Add%20User.png" alt="Add User" width="400"/>
@@ -40,8 +45,7 @@ This project exemplifies the practical application of OOP concepts, showcasing e
 - **Close Application**
   <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Close%20application.png" alt="Close Application" width="400"/>
 
-- **Dashboard**
-  <img src="https://github.com/NahidMuntasir7/PharmEase/blob/main/Screenshots/Dashboard.png" alt="Dashboard" width="400"/>
+
 
 
 - **Logout**
