@@ -1,4 +1,4 @@
-g# 💊 PharmEase
+💊 PharmEase
 
 **PharmEase** is a Java-based pharmacy management system developed during my third semester. The project applies Object-Oriented Programming (OOP) principles, utilizes **Java Swing** for the graphical user interface (GUI), and integrates **MySQL** for efficient database management.
 
