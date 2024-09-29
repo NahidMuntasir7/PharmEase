@@ -100,8 +100,3 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 - **Java Swing**: Used for building the graphical user interface (GUI).
 - **MySQL**: Used as the database for storing and managing pharmacy data.
   
-## 🚀 How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/NahidMuntasir7/PharmEase.git
