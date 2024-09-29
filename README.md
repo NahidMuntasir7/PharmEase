@@ -1,4 +1,4 @@
-# 💊 PharmEase
+g# 💊 PharmEase
 
 **PharmEase** is a Java-based pharmacy management system developed during my third semester. The project applies Object-Oriented Programming (OOP) principles, utilizes **Java Swing** for the graphical user interface (GUI), and integrates **MySQL** for efficient database management.
 
@@ -35,10 +35,10 @@ PharmEase provides a user-friendly and efficient way to manage pharmacy operatio
 ## 🖼️ Snapshots
 
 ### Admin Features
+- [Login]([link_to_screenshot](https://github.com/NahidMuntasir7/PharmEase/blob/master/Screenshots/admin/Login.png))
 - [Add User](link_to_screenshot)
 - [Close Application](link_to_screenshot)
 - [Dashboard](link_to_screenshot)
-- [Login](link_to_screenshot)
 - [Logout](link_to_screenshot)
 - [Profile](link_to_screenshot)
 - [Update User](link_to_screenshot)
