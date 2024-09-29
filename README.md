@@ -53,16 +53,19 @@ This project exemplifies the practical application of OOP concepts, showcasing e
  
   <img src="Screenshots/admin/View User.png" alt="View User" width="400"/>
 
-  - **Update User**
+
+- **Update User**
    
   <img src="Screenshots/admin/Update User.png" alt="Update User" width="400"/>
 
 
 - **Logout**
+ 
   <img src="Screenshots/admin/Logout.png" alt="Logout" width="400"/>
 
   
 - **Close Application**
+ 
   <img src="Screenshots/admin/Close application.png" alt="Close Application" width="400"/>
 
 
